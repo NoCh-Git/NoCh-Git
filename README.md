@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm NoCh-Git!
 
-> “Half physicist, half data scientist — occasionally mistaken for an engineer.”
+> “Half physicist, half data scientist! occasionally mistaken for an engineer.”
 
 ---
 
