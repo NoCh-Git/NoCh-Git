@@ -35,6 +35,7 @@ because my students are BSc/MSc CS & AI students.
 | **Topic Explorer** | NLP dashboard for large corpora (English & German) | Streamlit · LDA · spaCy |
 | **NLP Course Series** | A series of 7 lectures on using NLP to quantify literature | nltk · LDA · spaCy |
 | **Big Data and Business Intelligence Course Series** | A series of 6 lectures on using BD and BI for MSc students in BD and AI program| Streamlit · Spark · SQL |
+| **Inference and Causality Course Series** | A series of 12 lectures in 6 repos on inference and causality, causal DAGs, Do-calculus, etc. for MSc students in BD and AI program| Matplotlib · Numpy · Pandas |
 
 
 
