@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm NoCh-Git!
+# Hello there! I'm NoCh-Git!
 
 > “Half physicist, half data scientist! occasionally mistaken for an engineer.”
 
