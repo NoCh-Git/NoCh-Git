@@ -6,12 +6,15 @@
 
 ### What I Do
 I build models, tools, and ideas that live somewhere between **data science** and **optimization**.  
-Sometimes that means writing Python tools for energy systems, sometimes teaching at universities,  
+Sometimes that means writing Python tools for simulating societal or biological or engineering systems, sometimes teaching at universities,  
 and sometimes just experimenting with things I have no clue about (yet).
 
 ---
 
 ### Some of My Current Projects
+
+**THRIVE**  
+A Dublin City University-based project on optimization of public consultation data and policy flow resulting from consultations.
 
 **MixedForm XR**  
 AR/MR platform for visualizing industrial equipment at full scale.  
