@@ -1,6 +1,6 @@
 # Hello there! I'm NoCh-Git!
 
-> “Half physicist, half data scientist! occasionally mistaken for an engineer.”
+> “Computational scientist! occasionally mistaken for an engineer.”
 
 ---
 
@@ -26,8 +26,7 @@ Rolling optimization, degradation costs, and a healthy respect for constraints.
 
 **Teaching Computing-Related Courses**  
 Big Data & BI · Applied NLP · Inference & Causality · Data Analytics, Data Mining and Machine Learning
-Each session comes with open-source Jupyter notebooks for hands-on experiments  
-because my students are BSc/MSc CS & AI students.
+Each session comes with open-source Jupyter notebooks for hands-on experiments.
 
 ---
 
