@@ -24,8 +24,8 @@ Meta Quest + Unity. Visit [**mixedform.com**](https://mixedform.com) to learn mo
 Python + CVXPY model for battery dispatch with day-ahead pricing.  
 Rolling optimization, degradation costs, and a healthy respect for constraints.
 
-**Teaching Three Courses**  
-Big Data & BI · Applied NLP · Inference & Causality  
+**Teaching Computing-Related Courses**  
+Big Data & BI · Applied NLP · Inference & Causality · Data Analytics, Data Mining and Machine Learning
 Each session comes with open-source Jupyter notebooks for hands-on experiments  
 because my students are BSc/MSc CS & AI students.
 
@@ -39,6 +39,7 @@ because my students are BSc/MSc CS & AI students.
 | **NLP Course Series** | A series of 7 lectures on using NLP to quantify literature | nltk · LDA · spaCy |
 | **Big Data and Business Intelligence Course Series** | A series of 6 lectures on using BD and BI for MSc students in BD and AI program| Streamlit · Spark · SQL |
 | **Inference and Causality Course Series** | A series of 12 lectures in 6 repos on inference and causality, causal DAGs, Do-calculus, etc. for MSc students in BD and AI program| Matplotlib · Numpy · Pandas |
+| **Data Analytics, Data Mining and Machine Learning** | A series of 9 lectures on Data Analytics, Data Mining and Machine Learning for BSc students in their last year in Science and Psychology programs.| Sklearn · Matplotlib · Numpy · Pandas |
 
 
 
